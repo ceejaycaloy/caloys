@@ -1,13 +1,4 @@
-/* ==========================================================
-   CC VISUALS — Design tokens
-   Palette: deep forest green (identity) · warm cream gold
-            (warmth/support) · burnt orange (energy, sparingly)
-   Type: Space Grotesk (display/heading), Inter (body/UI),
-         Cormorant Garamond italic (script accent, used sparingly)
-   Signature: viewfinder / focus-bracket motif on hero, portrait,
-              and gallery items — a photographer's own framing device,
-              now rendered in gold against warm cream surfaces.
-   ========================================================== */
+
 
 :root {
   /* -- surfaces -- */
