@@ -14,8 +14,8 @@ const VIDEOS = [
 ];
 
 const SOCIAL_LINKS = [
-  { label: "Facebook",  url: null },
-  { label: "Instagram", url: null },
+  { label: "Facebook",  url: "https://www.facebook.com/carlo.johncordero17" },
+  { label: "Instagram", url: "https://www.instagram.com/theceej.17?igsh=MWJoMXh6a2N1Z2kyeg==" },
   { label: "TikTok",    url: null },
   { label: "YouTube",   url: null },
   { label: "GitHub",    url: null },
